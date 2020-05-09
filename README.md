@@ -9,8 +9,11 @@
 
 ## Important notice
 
-**This package is soon to be renamed and will thensforth not be
+**This package has been renamed as RADins will thensforth not be
 maintained.**
+
+You can install the new `RADins` package from
+<https://github.com/t-gummer/RADins>.
 
 ## Overview
 
