@@ -20,7 +20,7 @@ knitr::opts_chunk$set(
 
 ## Important notice
 
-__This package has been renamed as RADins and will henceforth not be maintained.__
+__This package has been renamed, "RADins" and will henceforth not be maintained.__
 
 You can install the new `RADins` package as instructed at https://github.com/t-gummer/RADins#installation.
 

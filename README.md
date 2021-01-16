@@ -9,7 +9,7 @@
 
 ## Important notice
 
-**This package has been renamed as RADins and will henceforth not be
+**This package has been renamed, “RADins” and will henceforth not be
 maintained.**
 
 You can install the new `RADins` package as instructed at
